@@ -381,6 +381,11 @@ p {
     gap: 2rem;
 }
 
+.service-link {
+    text-decoration: none;
+    color: inherit;
+}
+
 .service-card {
     background: rgba(255, 255, 255, 0.9);
     padding: 2.5rem;
